@@ -1,5 +1,5 @@
 # xor_Shellcode
-xor加密shellcode
+xor加密shellcode并转换成go语言的字符切片格式
 密钥是用户主目录路径的第四个字符的 ASCII 值
 
 用法：
